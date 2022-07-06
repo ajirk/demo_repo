@@ -44,7 +44,7 @@ to go back to previous commits or unstage the commit
 
 git reset (to go the last commit)
 
-git reset HEAD~1 (HEAD points to the last commit~ here we want to go 1 commit further than the head)
+git reset HEAD~1 (HEAD points to the last commit- here we want to go 1 commit further than the head)
 
 ### Fork
 
