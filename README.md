@@ -33,3 +33,15 @@ There are different branches like master, feature, hot fix(for fixing bugs), etc
    git checkout -b feature-readme-branching
 3. to change branch
    git checkout
+
+## Pull requests
+
+A pull request is a request to pull your code into another branch.
+if we want our code to be pulled into master branch: we make a pr from the feature branch to the master branch
+Once the pr is merged,generally the feature branch is deleted and switch back to the master branch.
+For making further code changes, we'll have to start a new branch.
+
+so in all:
+make commits
+make pr
+then merge (forever!)
