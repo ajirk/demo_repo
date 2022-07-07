@@ -34,6 +34,8 @@ There are different branches like master, feature, hot fix(for fixing bugs), etc
 3. to change branch
    git checkout
 
+<!-- <<<<<<< HEAD -->
+
 make a branch, make code changes, pull request, delete the feature branch
 
 ### reset/undo commits
@@ -46,4 +48,18 @@ git reset HEAD~1 (HEAD points to the last commit~ here we want to go 1 commit fu
 
 ### Fork
 
-Allows to make changes anywhere
+# Allows to make changes anywhere
+
+## Pull requests
+
+A pull request is a request to pull your code into another branch.
+if we want our code to be pulled into master branch: we make a pr from the feature branch to the master branch
+Once the pr is merged,generally the feature branch is deleted and switch back to the master branch.
+For making further code changes, we'll have to start a new branch.
+
+so in all:
+make commits
+make pr
+then merge (forever!)
+
+<!-- > > > > > > > a17a01a6dd066ff17404dc177fd00aef15ea131b -->
