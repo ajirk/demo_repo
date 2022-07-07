@@ -33,3 +33,15 @@ There are different branches like master, feature, hot fix(for fixing bugs), etc
    git checkout -b feature-readme-branching
 3. to change branch
    git checkout
+
+### reset/undo commits
+
+to go back to previous commits or unstage the commit
+
+git reset (to go the last commit)
+
+git reset HEAD~1 (HEAD points to the last commit~ here we want to go 1 commit further than the head)
+
+### Fork
+
+Allows to make changes anywhere
