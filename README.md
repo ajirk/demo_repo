@@ -20,6 +20,8 @@ Create a new drectory with a README file and save changes then write the followi
 8. git push origin master
    to push into origin master by default : git push -u origin master
 
+## Branching in github
+
 Well this is all happening in one branch and that is the master branch
 Now we will look at branches
 There are different branches like master, feature, hot fix(for fixing bugs), etc
