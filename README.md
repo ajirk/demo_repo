@@ -34,6 +34,8 @@ There are different branches like master, feature, hot fix(for fixing bugs), etc
 3. to change branch
    git checkout
 
+make a branch, make code changes, pull request, delete the feature branch
+
 ### reset/undo commits
 
 to go back to previous commits or unstage the commit
